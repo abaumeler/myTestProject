@@ -1,0 +1,15 @@
+{
+  "id" : "https://abaumeler.github.io/myTestProject/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in abaumeler/myTestProject project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://abaumeler.github.io/myTestProject/manifests/Gutenberg",
+    "label" : {
+      "none" : [ "BnF, département Réserve des livres rares, VELINS-68" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
